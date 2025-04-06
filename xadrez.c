@@ -26,7 +26,7 @@ int main() {
     do {
         printf("Direita\n");
         movTorre++;
-    } while(movTorre < 5);
+    } while(movTorre <= 5);
 
     // Implementação de Movimentação da Rainha
     // Sugestão: Utilize uma estrutura de repetição para simular a movimentação da Rainha para a esquerda.
